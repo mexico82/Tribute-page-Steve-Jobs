@@ -1,0 +1,74 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+
+}
+
+#title {
+  color: rgb(255, 255, 255);
+  font-size: 5em;
+  text-align: center;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  color: #FFFF;
+  font-size: 1.5em;
+}
+
+h3 {
+  text-align: center;
+  color: #FFFF;
+  margin-top: 40px;
+  font-size: 32px;
+}
+
+h4 {
+  font-size: 22px;
+  font-style: italic;
+  padding: 10px;
+  color: rgb(235, 216, 113);
+}
+
+#tribute-info {
+  text-align: center;
+  margin-top: 30px;
+  color: #FFFF;
+}
+
+#tribute-info li {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+hr {
+  margin: 10px 0px 10px 0px;
+}
+
+#tribute-link {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 22px;
+  padding: 20px;
+  margin: 20px;
+}
+
+a {
+  color: #FFFF;
+}
